@@ -178,7 +178,7 @@ const PropertyManagement = () => {
               <strong>Address:</strong> {selectedProperty.address}
             </p>
             <p>
-              <strong>Rent:</strong> ${selectedProperty.rent}
+              <strong>Rent:</strong> {selectedProperty.rent}
             </p>
             <p>
               <strong>Rooms:</strong> {selectedProperty.noOfRoom}
